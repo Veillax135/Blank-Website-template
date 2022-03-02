@@ -1,2 +1,2 @@
-# Blank-Website-template
-blank website template, it's pretty self explanatory
+# Blank Website Template
+It's a blank website template, pretty self explanatory if you ask me, what else did you think?
